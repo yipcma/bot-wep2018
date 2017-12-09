@@ -14,7 +14,7 @@ Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 [Recast.ai](https://recast.ai)  
 [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)  
 [Joke Bot Tutorial](https://recast.ai/blog/build-your-first-bot-with-recast-ai/)  
-[Movie Bot Tutorial + Code](https://github.com/yipcma/movie-bot)
+[Movie Bot Tutorial + Code with mqtt](https://github.com/yipcma/movie-bot)
 
 ### More hints
 [Testing](https://chatbotsmagazine.com/are-you-talking-to-your-customers-or-yourself-6275e806a82a)  
