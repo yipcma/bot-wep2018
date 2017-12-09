@@ -6,6 +6,8 @@ Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 ## Course Overview
 [Why Bot and IoT](https://chatbotsmagazine.com/chatbots-a-bright-future-in-iot-93fb615b2286)
 
+## [IoT Workshop](https://bitbucket.org/rautek/01-iot)
+
 ## CI Workshop
 ### Essentials
 [Design thinking for bots](https://chatbotsmagazine.com/to-build-a-successful-chatbot-ask-these-5-questions-b7fe3776c74c)  
