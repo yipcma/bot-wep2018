@@ -15,7 +15,7 @@ Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 [Movie Bot Tutorial](https://github.com/yipcma/movie-bot)
 
 ### More hints
-[Testing](https://chatbotsmagazine.com/are-you-talking-to-your-customers-or-yourself-6275e806a82a)
+[Testing](https://chatbotsmagazine.com/are-you-talking-to-your-customers-or-yourself-6275e806a82a)  
 [Protips #1](https://recast.ai/blog/10-tips-build-bots-recast-ai/)  
 [Protips #2](https://recast.ai/blog/art-of-bot-design/)  
 [Top Channels](https://recast.ai/blog/top-bots-channels/)  
