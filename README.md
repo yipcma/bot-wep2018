@@ -10,8 +10,9 @@ Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 [Design thinking for bots](https://chatbotsmagazine.com/to-build-a-successful-chatbot-ask-these-5-questions-b7fe3776c74c)  
 [Recast.ai](https://recast.ai)  
 [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)  
-[Joke Bot](https://recast.ai/blog/build-your-first-bot-with-recast-ai/)  
-[Movie Bot](https://recast.ai/blog/nodejs-chatbot-movie-bot/)  
+[Joke Bot Tutorial](https://recast.ai/blog/build-your-first-bot-with-recast-ai/)  
+[Movie Bot Tutorial](https://recast.ai/blog/nodejs-chatbot-movie-bot/)
+[Movie Bot Code](https://github.com/yipcma/movie-bot)
 
 ### More hints
 [Testing](https://chatbotsmagazine.com/are-you-talking-to-your-customers-or-yourself-6275e806a82a)
