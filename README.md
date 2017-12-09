@@ -1,7 +1,8 @@
 # bot-wep2018
 Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 
-# Course Outline
+[Course Deck](https://docs.google.com/presentation/d/1n9jwU8oQyVJcvQnGp-jSBNbR8OsSyaVqRbAW6s42oy4/edit?usp=sharing)
+
 ## Course Overview
 [Why Bot and IoT](https://chatbotsmagazine.com/chatbots-a-bright-future-in-iot-93fb615b2286)
 
@@ -11,8 +12,7 @@ Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 [Recast.ai](https://recast.ai)  
 [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)  
 [Joke Bot Tutorial](https://recast.ai/blog/build-your-first-bot-with-recast-ai/)  
-[Movie Bot Tutorial](https://recast.ai/blog/nodejs-chatbot-movie-bot/)  
-[Movie Bot Code](https://github.com/yipcma/movie-bot)
+[Movie Bot Tutorial](https://github.com/yipcma/movie-bot)
 
 ### More hints
 [Testing](https://chatbotsmagazine.com/are-you-talking-to-your-customers-or-yourself-6275e806a82a)
