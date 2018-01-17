@@ -3,6 +3,9 @@ Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 
 [Course Deck (feel free to comment in deck for a better course!)](https://docs.google.com/presentation/d/1n9jwU8oQyVJcvQnGp-jSBNbR8OsSyaVqRbAW6s42oy4/edit?usp=sharing)
 
+## Hackathon 
+[Join the Hackathon Trello Board ](https://trello.com/invite/b/aUqrN2Hp/275f6976e59df75927ccdeffb3fa4921/chatbot-things-hackathon-wep2018)
+
 ## Course Overview
 [Why Bot and IoT](https://chatbotsmagazine.com/chatbots-a-bright-future-in-iot-93fb615b2286)
 
