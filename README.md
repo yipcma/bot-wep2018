@@ -6,6 +6,15 @@ Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 ## Hackathon 
 [Join the Hackathon Trello Board ](https://trello.com/invite/b/aUqrN2Hp/275f6976e59df75927ccdeffb3fa4921/chatbot-things-hackathon-wep2018)
 
+## Good Bots Inspirations
+[Top Channels](https://recast.ai/blog/top-bots-channels/)  
+[Top Messenger Bots](https://recast.ai/blog/top-messenger-bots-2017/)  
+
+## How not to get lost during the Hackathon
+[Protips](https://recast.ai/blog/10-tips-build-bots-recast-ai/)  
+[Art of Bot Design](https://recast.ai/blog/art-of-bot-design/)  
+[Testing](https://chatbotsmagazine.com/are-you-talking-to-your-customers-or-yourself-6275e806a82a)  
+
 ## Course Overview
 [Why Bot and IoT](https://chatbotsmagazine.com/chatbots-a-bright-future-in-iot-93fb615b2286)
 
@@ -18,13 +27,6 @@ Course material repo for the make your stuff talk (chatbots) workshop in WEP2018
 [Messenger Platform](https://developers.facebook.com/docs/messenger-platform)  
 [Joke Bot Tutorial](https://recast.ai/blog/build-your-first-bot-with-recast-ai/)  
 [Movie Bot Tutorial + Code with mqtt](https://github.com/yipcma/movie-bot)
-
-### More hints
-[Testing](https://chatbotsmagazine.com/are-you-talking-to-your-customers-or-yourself-6275e806a82a)  
-[Protips #1](https://recast.ai/blog/10-tips-build-bots-recast-ai/)  
-[Protips #2](https://recast.ai/blog/art-of-bot-design/)  
-[Top Channels](https://recast.ai/blog/top-bots-channels/)  
-[Top Messenger Bots](https://recast.ai/blog/top-messenger-bots-2017/)  
 
 ## CI X IoT Workshop
 [MQTT.js](https://github.com/mqttjs/MQTT.js)  
